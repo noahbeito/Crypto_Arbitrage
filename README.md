@@ -1,2 +1,2 @@
 # Crypto_Arbitrage
-Bitcoin analysis: Bitstamp vs. Coinbase
+Bitcoin Analysis: Bitstamp vs. Coinbase

@@ -1,4 +1,4 @@
-!(https://blockchainstock.azureedge.net/features/7B13862B8D05A4CC0C48D1875635B6A884C93AA9A49282FA4793E28ABACB729A.jpg)
+![Bitcoin Arbitrage](https://blockchainstock.azureedge.net/features/7B13862B8D05A4CC0C48D1875635B6A884C93AA9A49282FA4793E28ABACB729A.jpg)
 # Bitcoin_Arbitrage: Bitstamp v. Coinbase
 Analyze data from two csv files to find an arbitrage opportunity. 
 ---
